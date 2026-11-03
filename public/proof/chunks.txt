@@ -1,0 +1,9 @@
+# Dashboard (/)
++366ms  widget with server done +301ms arrived
++968ms  widget with server done +901ms arrived
++5066ms  widget with server done +5001ms arrived
+
+# Parallel routes (/slots)
++332ms  widget with server done +302ms arrived
++931ms  widget with server done +902ms arrived
++5034ms  widget with server done +5001ms arrived
